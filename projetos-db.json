@@ -1,7 +1,7 @@
 {
     "projetos": [
         {
-          "imagem": "",
+          "imagem": "https://raw.githubusercontent.com/LucasJDantas/site-portfolio/refs/heads/main/imagens-projetos/card-seus-filmes.png",
           "titulo": "Seus Filmes.",
           "descricao": "Plataforma para exibir informações sobre seus filmes assistidos e avaliá-los.",
           "ferramentas": [
@@ -11,7 +11,7 @@
           ]
         },
          {
-            "imagem": "",
+            "imagem": "https://raw.githubusercontent.com/LucasJDantas/site-portfolio/refs/heads/main/imagens-projetos/card-lista-de-tarefas.png",
             "titulo": "Lista de Tarefas",
             "descricao": "Aplicação de uma lista de tarefas dinâmica.",
             "ferramentas": [
@@ -21,7 +21,7 @@
             ]
           },
           {
-            "imagem": "",
+            "imagem": "https://raw.githubusercontent.com/LucasJDantas/site-portfolio/refs/heads/main/imagens-projetos/card-mucha-museum.png",
             "titulo": "Mucha Museum",
             "descricao": "Desenvolvimento do site do Mucha Museum",
             "ferramentas": [
@@ -30,4 +30,5 @@
             ]
           }
     ]
+
 }
