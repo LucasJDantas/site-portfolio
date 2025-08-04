@@ -1,0 +1,33 @@
+{
+    "projetos": [
+        {
+          "imagem": "",
+          "titulo": "Seus Filmes.",
+          "descricao": "Plataforma para exibir informações sobre seus filmes assistidos e avaliá-los.",
+          "ferramentas": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ]
+        },
+         {
+            "imagem": "",
+            "titulo": "Lista de Tarefas",
+            "descricao": "Aplicação de uma lista de tarefas dinâmica.",
+            "ferramentas": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ]
+          },
+          {
+            "imagem": "",
+            "titulo": "Mucha Museum",
+            "descricao": "Desenvolvimento do site do Mucha Museum",
+            "ferramentas": [
+              "HTML",
+              "CSS"
+            ]
+          }
+    ]
+}
